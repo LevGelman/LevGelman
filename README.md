@@ -14,7 +14,6 @@ I'm a data engineer and cloud infrastructure specialist with a passion for solvi
 
 **Development:**
 - Languages: Python, JavaScript/TypeScript, SQL, PowerShell
-- Frameworks: Angular, Docker containerization
 - Tools: Git, GitHub workflows, Salesforce CLI
 
 **Systems & DevOps:**
