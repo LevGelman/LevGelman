@@ -21,13 +21,6 @@ I'm a data engineer and cloud infrastructure specialist with a passion for solvi
 - VirtualBox/KVM virtualization
 - Cross-platform development (Wine applications)
 
-### 💼 Current Focus
-
-- Building specialized web applications with OAuth authentication
-- Azure cloud migrations and Unity Catalog modernization
-- Developing watermark-based incremental data processing solutions
-- Optimizing grayscale UIs for e-ink displays
-
 ### 🌐 Languages
 
 I communicate fluently in English, Russian, and Hebrew.
@@ -36,7 +29,7 @@ I communicate fluently in English, Russian, and Hebrew.
 
 When I'm not coding, you'll find me enjoying:
 - Chess (developing chess applications and exploring tactics)
-- Gaming (particularly Counter-Strike strategies)
+- Sea sport
 - Technical problem-solving and creative coding projects
 
 ### 📫 How to Reach Me
